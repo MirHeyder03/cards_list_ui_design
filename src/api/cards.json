@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Hunter",
+    "category": "Data access",
+    "description": "Hunter API makes it easy to find or verify professional email addresses.",
+    "icon": "icons/icon-hunter.svg",
+    "bookmark": false
+  },
+  {
+    "id": 2,
+    "name": "Twilio",
+    "category": "Data access",
+    "description": "Send and receive SMS and MMS messages as well as query meta-data about text messages ",
+    "icon": "icons/icon-twilio.svg",
+    "bookmark": false
+  },
+  {
+    "id": 3,
+    "name": "WhatsApp Business",
+    "category": "Automation",
+    "description": "Hunter API makes it easy to find or verify professional email addresses.",
+    "icon": "icons/icon-whatsapp.svg",
+    "bookmark": false
+  },
+  {
+    "id": 4,
+    "name": "Stripe",
+    "category": "Data access",
+    "description": "A suite of payment APIs that powers commerce for online businesses of all sizes.",
+    "icon": "icons/icon-stripe.svg",
+    "bookmark": false
+  },
+  {
+    "id": 5,
+    "name": "Typeform",
+    "category": "Data access",
+    "description": "Create, retrieve, update, and delete your typeforms, themes, and images.",
+    "icon": "icons/icon-typeform.svg",
+    "bookmark": false
+  },
+  {
+    "id": 6,
+    "name": "BlaBlaCar",
+    "category": "Data access",
+    "description": "Create, retrieve, update, and delete your typeforms, themes, and images.",
+    "icon": "icons/icon-blablacar.svg",
+    "bookmark": false
+  },
+  {
+    "id": 7,
+    "name": "Meteorologisk Institutt",
+    "category": "Data access",
+    "description": "Weather and climate data.",
+    "icon": "icons/icon-mi.svg",
+    "bookmark": false
+  },
+  {
+    "id": 8,
+    "name": "Asana",
+    "category": "Data access",
+    "description": "Customize the Asana experience, leverage your data with the Asana API.",
+    "icon": "icons/icon-asana.svg",
+    "bookmark": false
+  },
+  {
+    "id": 9,
+    "name": "Mailchimp",
+    "category": "Data access",
+    "description": "Email marketing, ads, landing pages, and CRM tools to grow your business on your terms. ",
+    "icon": "icons/icon-mailchimp.svg",
+    "bookmark": false
+  }
+]
